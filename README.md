@@ -2,7 +2,7 @@
 - 🏫 I'm a Computer Science Student at ÉPITA in Paris
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in Games and Reading
-- 📫 How to reach me https://linktr.ee/Ciugiu
+- 📫 How to reach me [https://linktr.ee/Ciugiu](https://www.linkedin.com/in/corneliu-ciugurean/)
 - ⚡ Fun fact: "The Noise is a man unfiltered, and without a filter, a man is just chaos walking."
 
 <!---
