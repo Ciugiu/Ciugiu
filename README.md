@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in Games and Reading
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Corneliu_Ciugurean-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/corneliu-ciugurean//)](https://www.linkedin.com/in/corneliu-ciugurean) 
-- ⚡ Fun fact: "The Noise is a man unfiltered, and without a filter, a man is just chaos walking."
+- "The Noise is a man unfiltered, and without a filter, a man is just chaos walking."
 
 <!---
 - - 👀 I’m interested in Games and Reading
