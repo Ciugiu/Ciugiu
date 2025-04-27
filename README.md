@@ -1,7 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Corneliu or Ciugiu.<br>🏫 I'm a Computer Science Student at ÉPITA in Paris.<br>🌱 I’m currently learning C++, JavaScript, Agile methodology, and much more.<br>👀 I’m interested in games, reading, and automation of any kind.<br>📫 How to reach me:<br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/406577886623956994)](https://discord.com/users/406577886623956994?animatedDecoration=true&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true)
-
+<p align="center">
+  <a href="https://discord.com/users/406577886623956994?animatedDecoration=true&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true">
+    <img src="https://lanyard.cnrad.dev/api/406577886623956994" alt="Discord Presence">
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/corneliu-ciugurean) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:corneliu.v.ciugurean@gmail.com) 
