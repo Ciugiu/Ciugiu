@@ -19,7 +19,7 @@
         </a>
       </p>
     </td>
-    <td width="425">
+    <td width="413">
       <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Ciugiu&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Ciugiu's GitHub Stats" />
       <img align="center" width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Ciugiu&theme=transparent&hide_border=false" alt="GitHub Streak" />
       <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciugiu&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
