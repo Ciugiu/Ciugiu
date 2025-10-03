@@ -11,7 +11,7 @@
         <a href="https://linkedin.com/in/corneliu-ciugurean">
           <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="mailto:corneliu+github_profile@ciugurean.com">
+        <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#099;&#111;&#114;&#110;&#101;&#108;&#105;&#117;&#043;&#103;&#105;&#116;&#104;&#117;&#098;&#095;&#112;&#114;&#111;&#102;&#105;&#108;&#101;&#064;&#099;&#105;&#117;&#103;&#117;&#114;&#101;&#097;&#110;&#046;&#099;&#111;&#109;">
           <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
         </a></h3>
         <a href="https://discord.com/users/406577886623956994?animatedDecoration=true&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true">
