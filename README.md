@@ -26,12 +26,13 @@
   </tr>
 </table>
 
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ciugiu&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-
+-->
 ---
 
 #### 💰 You Can Help Me by Donating
